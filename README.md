@@ -1,3 +1,6 @@
+## 🚀 Open in Colab
+https://colab.research.google.com/github/YOUR-USERNAME/Retail-Analytics/blob/main/retail_analysis.ipynb
+
 # 📊 Retail Sales Analysis
 
 ## Overview
