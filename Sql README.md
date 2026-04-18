@@ -1,4 +1,5 @@
-#retail using sql Open in Colab
+## retail using sql Open in Colab
+
 https://colab.research.google.com/github/Raghu3129/Retail_analytics/blob/main/sql_Retails.ipynb
 
 # SQL Retail Analysis
