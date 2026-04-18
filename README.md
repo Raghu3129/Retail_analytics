@@ -1,4 +1,4 @@
-## 🚀retail using pytthon Open in Colab
+## retail using pytthon Open in Colab
 (https://colab.research.google.com/github/Raghu3129/Retail_analytics/blob/main/retail_sales.ipynb)
 
 # 📊 Retail Sales Analysis
