@@ -1,5 +1,5 @@
 ## 🚀retail using pytthon Open in Colab
-https://colab.research.google.com/github/YOUR-USERNAME/Retail-Analytics/blob/main/retail_analysis.ipynb
+(https://colab.research.google.com/github/Raghu3129/Retail_analytics/blob/main/retail_sales.ipynb)
 
 # 📊 Retail Sales Analysis
 
